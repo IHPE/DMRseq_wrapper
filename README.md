@@ -15,7 +15,7 @@ In order to reproduce the results from the article you need to follow the follow
 - Launch the script:
 
 ```bash
-Rscript script_dmrseq_nosim_SC_01.07.19.R
+Rscript dmrseq_wrapper.R
 ```
 
 Or open the folder in rstudio as the working directory, open the script and source it or step through the code.
